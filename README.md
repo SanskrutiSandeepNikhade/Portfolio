@@ -1,2 +1,2 @@
 Live Demo :
-https://sanskrutisnikhadeportfolio.netlify.app/
+(https://sanskrutisandeepnikhadeportfolio.netlify.app/)
